@@ -8,5 +8,7 @@ public class Ejercicio4 {
         double pesetas = 166.38;
         
         System.out.print("La cantidad de "+ n + " euros en pesetas, son: " + n*pesetas);
+        
+        sc.close();
     }
 }
