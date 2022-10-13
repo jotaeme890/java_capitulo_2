@@ -1,3 +1,10 @@
+/**
+ *  4 Realiza un conversor de euros a pesetas. La cantidad en euros que se quiere 
+ * convertir deberá estar almacenada en una variable
+ * 
+ * @author jotaeme
+ */
+
 import java.util.Scanner;
 
 public class Ejercicio4 {
